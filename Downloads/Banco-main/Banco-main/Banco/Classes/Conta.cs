@@ -20,7 +20,7 @@ namespace Banco.Classes
                 NumeroConta = numeroConta;
                 Agencia = agencia;
                 TitularConta = titularConta;
-                Saldo = 0;
+                SaldoConta = 0;
             }
 
             public virtual void Depositar(decimal valor)

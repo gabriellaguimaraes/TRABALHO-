@@ -1,0 +1,5 @@
+C:\Users\2022102020055\Documents\poo\Banco\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\2022102020055\Documents\poo\Banco\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020055\Documents\poo\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\2022102020055\Documents\poo\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\2022102020055\Documents\poo\Banco\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
